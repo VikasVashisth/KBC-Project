@@ -1,0 +1,110 @@
+C:\Users\viksh sharma\Documents\Visual Studio 2012\Projects\newww\newww\obj\Debug\newww.Resources.resources
+C:\Users\viksh sharma\Documents\Visual Studio 2012\Projects\newww\newww\obj\Debug\newww.SplashScreen1.resources
+C:\Users\viksh sharma\Documents\Visual Studio 2012\Projects\newww\newww\obj\Debug\newww.vbproj.GenerateResource.Cache
+C:\Users\viksh sharma\Documents\Visual Studio 2012\Projects\newww\newww\obj\Debug\newww.Form2.resources
+C:\Users\viksh sharma\Documents\Visual Studio 2012\Projects\newww\newww\obj\Debug\newww.Form3.resources
+C:\Users\viksh sharma\Documents\Visual Studio 2012\Projects\newww\newww\obj\Debug\newww.Form1.resources
+C:\Users\viksh sharma\Documents\Visual Studio 2012\Projects\newww\newww\obj\Debug\newww.Form4.resources
+C:\Users\viksh sharma\Documents\Visual Studio 2012\Projects\newww\newww\bin\Debug\KBC.exe.config
+C:\Users\viksh sharma\Documents\Visual Studio 2012\Projects\newww\newww\bin\Debug\KBC.exe
+C:\Users\viksh sharma\Documents\Visual Studio 2012\Projects\newww\newww\bin\Debug\KBC.pdb
+C:\Users\viksh sharma\Documents\Visual Studio 2012\Projects\newww\newww\bin\Debug\KBC.xml
+C:\Users\viksh sharma\Documents\Visual Studio 2012\Projects\newww\newww\obj\Debug\newww.Form5.resources
+C:\Users\viksh sharma\Documents\Visual Studio 2012\Projects\newww\newww\obj\Debug\KBC.exe
+C:\Users\viksh sharma\Documents\Visual Studio 2012\Projects\newww\newww\obj\Debug\KBC.xml
+C:\Users\viksh sharma\Documents\Visual Studio 2012\Projects\newww\newww\obj\Debug\KBC.pdb
+C:\Users\viksh sharma\Documents\Visual Studio 2012\Projects\newww\newww\obj\Debug\newww.Form6.resources
+C:\Users\viksh sharma\Documents\Visual Studio 2012\Projects\newww\newww\obj\Debug\newww.Form7.resources
+C:\Users\viksh sharma\Documents\Visual Studio 2012\Projects\newww\newww\obj\Debug\newww.Form8.resources
+C:\Users\viksh sharma\Documents\Visual Studio 2012\Projects\newww\newww\obj\Debug\newww.Form9.resources
+C:\Users\viksh sharma\Documents\Visual Studio 2012\Projects\newww\newww\obj\Debug\newww.Form10.resources
+C:\Users\viksh sharma\Documents\Visual Studio 2012\Projects\newww\newww\obj\Debug\newww.Form11.resources
+C:\Users\viksh sharma\Documents\Visual Studio 2012\Projects\newww\newww\obj\Debug\newww.Form12.resources
+C:\Users\viksh sharma\Documents\Visual Studio 2012\Projects\newww\newww\obj\Debug\newww.Form13.resources
+C:\Users\viksh sharma\Documents\Visual Studio 2012\Projects\newww\newww\obj\Debug\newww.form14.resources
+C:\Users\viksh sharma\Documents\Visual Studio 2012\Projects\newww\newww\obj\Debug\newww.Form15.resources
+C:\Users\viksh sharma\Documents\Visual Studio 2012\Projects\newww\newww\obj\Debug\newww.form16.resources
+C:\Users\viksh sharma\Documents\Visual Studio 2012\Projects\newww\newww\obj\Debug\newww.Form17.resources
+C:\Users\viksh sharma\Documents\Visual Studio 2012\Projects\newww\newww\obj\Debug\newww.Form18.resources
+C:\Users\viksh sharma\Documents\Visual Studio 2012\Projects\newww\newww\obj\Debug\newww.Form19.resources
+C:\Users\viksh sharma\Documents\Visual Studio 2012\Projects\newww\newww\obj\Debug\newww.Form20.resources
+C:\Users\viksh sharma\Documents\Visual Studio 2012\Projects\newww\newww\obj\Debug\newww.Form21.resources
+C:\Users\viksh sharma\Documents\Visual Studio 2012\Projects\newww\newww\obj\Debug\newww.Form22.resources
+C:\Users\viksh sharma\Documents\Visual Studio 2012\Projects\newww\newww\obj\Debug\newww.Form23.resources
+C:\Users\viksh sharma\Documents\Visual Studio 2012\Projects\newww\newww\obj\Debug\newww.Form24.resources
+C:\Users\viksh sharma\Desktop\KBC\newww\newww\bin\Debug\KBC.exe.config
+C:\Users\viksh sharma\Desktop\KBC\newww\newww\obj\Debug\KBC.exe
+C:\Users\viksh sharma\Desktop\KBC\newww\newww\obj\Debug\KBC.xml
+C:\Users\viksh sharma\Desktop\KBC\newww\newww\obj\Debug\KBC.pdb
+E:\-P H O N E-\B C A work\KBC(.Net Project)\newww\newww\bin\Debug\KBC.exe.config
+E:\-P H O N E-\B C A work\KBC(.Net Project)\newww\newww\obj\Debug\KBC.exe
+E:\-P H O N E-\B C A work\KBC(.Net Project)\newww\newww\obj\Debug\KBC.xml
+E:\-P H O N E-\B C A work\KBC(.Net Project)\newww\newww\obj\Debug\KBC.pdb
+E:\-P H O N E-\B C A work\KBC(.Net Project)\newww\newww\bin\Debug\KBC.exe
+E:\-P H O N E-\B C A work\KBC(.Net Project)\newww\newww\bin\Debug\KBC.pdb
+E:\-P H O N E-\B C A work\KBC(.Net Project)\newww\newww\bin\Debug\KBC.xml
+E:\-P H O N E-\B C A work\KBC(.Net Project)\newww\newww\obj\Debug\newww.vbprojResolveAssemblyReference.cache
+E:\-P H O N E-\B C A work\KBC(.Net Project)\newww\newww\obj\Debug\newww.Form1.resources
+E:\-P H O N E-\B C A work\KBC(.Net Project)\newww\newww\obj\Debug\newww.Form10.resources
+E:\-P H O N E-\B C A work\KBC(.Net Project)\newww\newww\obj\Debug\newww.Form11.resources
+E:\-P H O N E-\B C A work\KBC(.Net Project)\newww\newww\obj\Debug\newww.Form12.resources
+E:\-P H O N E-\B C A work\KBC(.Net Project)\newww\newww\obj\Debug\newww.Form13.resources
+E:\-P H O N E-\B C A work\KBC(.Net Project)\newww\newww\obj\Debug\newww.form14.resources
+E:\-P H O N E-\B C A work\KBC(.Net Project)\newww\newww\obj\Debug\newww.Form15.resources
+E:\-P H O N E-\B C A work\KBC(.Net Project)\newww\newww\obj\Debug\newww.form16.resources
+E:\-P H O N E-\B C A work\KBC(.Net Project)\newww\newww\obj\Debug\newww.Form17.resources
+E:\-P H O N E-\B C A work\KBC(.Net Project)\newww\newww\obj\Debug\newww.Form18.resources
+E:\-P H O N E-\B C A work\KBC(.Net Project)\newww\newww\obj\Debug\newww.Form19.resources
+E:\-P H O N E-\B C A work\KBC(.Net Project)\newww\newww\obj\Debug\newww.Form2.resources
+E:\-P H O N E-\B C A work\KBC(.Net Project)\newww\newww\obj\Debug\newww.Form20.resources
+E:\-P H O N E-\B C A work\KBC(.Net Project)\newww\newww\obj\Debug\newww.Form21.resources
+E:\-P H O N E-\B C A work\KBC(.Net Project)\newww\newww\obj\Debug\newww.Form22.resources
+E:\-P H O N E-\B C A work\KBC(.Net Project)\newww\newww\obj\Debug\newww.Form23.resources
+E:\-P H O N E-\B C A work\KBC(.Net Project)\newww\newww\obj\Debug\newww.Form24.resources
+E:\-P H O N E-\B C A work\KBC(.Net Project)\newww\newww\obj\Debug\newww.Form3.resources
+E:\-P H O N E-\B C A work\KBC(.Net Project)\newww\newww\obj\Debug\newww.Form4.resources
+E:\-P H O N E-\B C A work\KBC(.Net Project)\newww\newww\obj\Debug\newww.Form5.resources
+E:\-P H O N E-\B C A work\KBC(.Net Project)\newww\newww\obj\Debug\newww.Form6.resources
+E:\-P H O N E-\B C A work\KBC(.Net Project)\newww\newww\obj\Debug\newww.Form7.resources
+E:\-P H O N E-\B C A work\KBC(.Net Project)\newww\newww\obj\Debug\newww.Form8.resources
+E:\-P H O N E-\B C A work\KBC(.Net Project)\newww\newww\obj\Debug\newww.Form9.resources
+E:\-P H O N E-\B C A work\KBC(.Net Project)\newww\newww\obj\Debug\newww.Resources.resources
+E:\-P H O N E-\B C A work\KBC(.Net Project)\newww\newww\obj\Debug\newww.SplashScreen1.resources
+E:\-P H O N E-\B C A work\KBC(.Net Project)\newww\newww\obj\Debug\newww.vbproj.GenerateResource.Cache
+E:\-P H O N E-\B C A work\KBC(.Net Project)\newww\newww\bin\Debug\Database KBC.accdb
+E:\- P H O N E -\B C A (2015-2018)\Docs\Extra Docs\KBC(.Net Project) BACKUP\newww\newww\bin\Debug\KBC.exe.config
+E:\- P H O N E -\B C A (2015-2018)\Docs\Extra Docs\KBC(.Net Project) BACKUP\newww\newww\obj\Debug\KBC.exe
+E:\- P H O N E -\B C A (2015-2018)\Docs\Extra Docs\KBC(.Net Project) BACKUP\newww\newww\obj\Debug\KBC.xml
+E:\- P H O N E -\B C A (2015-2018)\Docs\Extra Docs\KBC(.Net Project) BACKUP\newww\newww\obj\Debug\KBC.pdb
+E:\- P H O N E -\B C A (2015-2018)\Docs\Extra Docs\KBC(.Net Project) BACKUP\newww\newww\bin\Debug\Database KBC.accdb
+E:\- P H O N E -\B C A (2015-2018)\Docs\Extra Docs\KBC(.Net Project) BACKUP\newww\newww\bin\Debug\KBC.exe
+E:\- P H O N E -\B C A (2015-2018)\Docs\Extra Docs\KBC(.Net Project) BACKUP\newww\newww\bin\Debug\KBC.pdb
+E:\- P H O N E -\B C A (2015-2018)\Docs\Extra Docs\KBC(.Net Project) BACKUP\newww\newww\bin\Debug\KBC.xml
+E:\- P H O N E -\B C A (2015-2018)\Docs\Extra Docs\KBC(.Net Project) BACKUP\newww\newww\obj\Debug\newww.vbprojResolveAssemblyReference.cache
+E:\- P H O N E -\B C A (2015-2018)\Docs\Extra Docs\KBC(.Net Project) BACKUP\newww\newww\obj\Debug\newww.Form1.resources
+E:\- P H O N E -\B C A (2015-2018)\Docs\Extra Docs\KBC(.Net Project) BACKUP\newww\newww\obj\Debug\newww.Form10.resources
+E:\- P H O N E -\B C A (2015-2018)\Docs\Extra Docs\KBC(.Net Project) BACKUP\newww\newww\obj\Debug\newww.Form11.resources
+E:\- P H O N E -\B C A (2015-2018)\Docs\Extra Docs\KBC(.Net Project) BACKUP\newww\newww\obj\Debug\newww.Form12.resources
+E:\- P H O N E -\B C A (2015-2018)\Docs\Extra Docs\KBC(.Net Project) BACKUP\newww\newww\obj\Debug\newww.Form13.resources
+E:\- P H O N E -\B C A (2015-2018)\Docs\Extra Docs\KBC(.Net Project) BACKUP\newww\newww\obj\Debug\newww.form14.resources
+E:\- P H O N E -\B C A (2015-2018)\Docs\Extra Docs\KBC(.Net Project) BACKUP\newww\newww\obj\Debug\newww.Form15.resources
+E:\- P H O N E -\B C A (2015-2018)\Docs\Extra Docs\KBC(.Net Project) BACKUP\newww\newww\obj\Debug\newww.form16.resources
+E:\- P H O N E -\B C A (2015-2018)\Docs\Extra Docs\KBC(.Net Project) BACKUP\newww\newww\obj\Debug\newww.Form17.resources
+E:\- P H O N E -\B C A (2015-2018)\Docs\Extra Docs\KBC(.Net Project) BACKUP\newww\newww\obj\Debug\newww.Form18.resources
+E:\- P H O N E -\B C A (2015-2018)\Docs\Extra Docs\KBC(.Net Project) BACKUP\newww\newww\obj\Debug\newww.Form19.resources
+E:\- P H O N E -\B C A (2015-2018)\Docs\Extra Docs\KBC(.Net Project) BACKUP\newww\newww\obj\Debug\newww.Form2.resources
+E:\- P H O N E -\B C A (2015-2018)\Docs\Extra Docs\KBC(.Net Project) BACKUP\newww\newww\obj\Debug\newww.Form20.resources
+E:\- P H O N E -\B C A (2015-2018)\Docs\Extra Docs\KBC(.Net Project) BACKUP\newww\newww\obj\Debug\newww.Form21.resources
+E:\- P H O N E -\B C A (2015-2018)\Docs\Extra Docs\KBC(.Net Project) BACKUP\newww\newww\obj\Debug\newww.Form22.resources
+E:\- P H O N E -\B C A (2015-2018)\Docs\Extra Docs\KBC(.Net Project) BACKUP\newww\newww\obj\Debug\newww.Form23.resources
+E:\- P H O N E -\B C A (2015-2018)\Docs\Extra Docs\KBC(.Net Project) BACKUP\newww\newww\obj\Debug\newww.Form24.resources
+E:\- P H O N E -\B C A (2015-2018)\Docs\Extra Docs\KBC(.Net Project) BACKUP\newww\newww\obj\Debug\newww.Form3.resources
+E:\- P H O N E -\B C A (2015-2018)\Docs\Extra Docs\KBC(.Net Project) BACKUP\newww\newww\obj\Debug\newww.Form4.resources
+E:\- P H O N E -\B C A (2015-2018)\Docs\Extra Docs\KBC(.Net Project) BACKUP\newww\newww\obj\Debug\newww.Form5.resources
+E:\- P H O N E -\B C A (2015-2018)\Docs\Extra Docs\KBC(.Net Project) BACKUP\newww\newww\obj\Debug\newww.Form6.resources
+E:\- P H O N E -\B C A (2015-2018)\Docs\Extra Docs\KBC(.Net Project) BACKUP\newww\newww\obj\Debug\newww.Form7.resources
+E:\- P H O N E -\B C A (2015-2018)\Docs\Extra Docs\KBC(.Net Project) BACKUP\newww\newww\obj\Debug\newww.Form8.resources
+E:\- P H O N E -\B C A (2015-2018)\Docs\Extra Docs\KBC(.Net Project) BACKUP\newww\newww\obj\Debug\newww.Form9.resources
+E:\- P H O N E -\B C A (2015-2018)\Docs\Extra Docs\KBC(.Net Project) BACKUP\newww\newww\obj\Debug\newww.Resources.resources
+E:\- P H O N E -\B C A (2015-2018)\Docs\Extra Docs\KBC(.Net Project) BACKUP\newww\newww\obj\Debug\newww.SplashScreen1.resources
+E:\- P H O N E -\B C A (2015-2018)\Docs\Extra Docs\KBC(.Net Project) BACKUP\newww\newww\obj\Debug\newww.vbproj.GenerateResource.Cache
